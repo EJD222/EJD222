@@ -1,5 +1,5 @@
 # Hi 👋, I'm EL-J
-## 💻 I'm an IT Student
+## 💻 I'm an Information Technology Student
 
 - 🌱 I’m currently learning **HTML, CSS, Java, Python, and C#.**
 - 🔭 My Goal for this year is to build projects with **Python and C#**.
