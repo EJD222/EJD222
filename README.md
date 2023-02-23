@@ -1,8 +1,8 @@
 # Hi 👋, I'm EL-J
 ## 💻 I'm an Information Technology Student
 
-- 🌱 I’m currently learning **HTML, CSS, Java, Python, and C#.**
-- 🔭 My Goal for this year is to build *Web Development* projects.
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, Python, and C#.**
+- 🔭 My Goal for this year is to build **Web Development** projects.
 - 📫 You can reach me via email **diaz.elmaliajane@auf.edu.ph.**
 
 ## 👩‍💻Programming Languages and Tools:
