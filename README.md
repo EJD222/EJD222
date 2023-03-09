@@ -1,4 +1,4 @@
-# Hi 👋, I'm EL-J
+# Hi 👋, I'm EL-J Diaz
 ## 💻 I'm an Information Technology Student
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, Python, and C#.**
