@@ -15,7 +15,6 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a> 
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/qsXFI__c.svg" alt="C#"  width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/6QLCw__python.svg" alt="Python" width="40" height="40"/> </a>
-  <a href="https://https://dotnet.microsoft.com/en-us/apps/xamarin" target="_blank" rel="noreferrer"> <img src="=https://upload.wikimedia.org/wikipedia/commons/f/f2/Xamarin-logo.svg" alt="Xamaerin" width="70"   height="40"/> </a> 
 </p>
 
 ### Miscellaneous Tools
