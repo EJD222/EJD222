@@ -14,7 +14,8 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="65" height="40"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a> 
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/qsXFI__c.svg" alt="C#"  width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/6QLCw__python.svg" alt="Python" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/6QLCw__python.svg" alt="Python" width="40" height="40"/> </a>
+  <a href="https://https://dotnet.microsoft.com/en-us/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/6QLCw__python.svg" alt="Xamaerin" width="70" height="40"/> </a> 
 </p>
 
 ### Miscellaneous Tools
